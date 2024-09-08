@@ -1,0 +1,10 @@
+release/main.o
+release/qfaceobject.o
+release/registerwin.o
+release/selectwin.o
+release/widget.o
+release/qrc_res.o
+release/moc_qfaceobject.o
+release/moc_registerwin.o
+release/moc_selectwin.o
+release/moc_widget.o

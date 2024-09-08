@@ -1,0 +1,10 @@
+debug/main.o
+debug/qfaceobject.o
+debug/registerwin.o
+debug/selectwin.o
+debug/widget.o
+debug/qrc_res.o
+debug/moc_qfaceobject.o
+debug/moc_registerwin.o
+debug/moc_selectwin.o
+debug/moc_widget.o
